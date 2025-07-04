@@ -1,0 +1,12 @@
+# Git e ambiente
+.git
+.gitignore
+.env
+
+# Ambiente virtual e cache
+venv/
+.venv/
+__pycache__/
+
+# Banco de dados local
+escola.db
